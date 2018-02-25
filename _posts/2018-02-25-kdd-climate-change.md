@@ -1,6 +1,9 @@
-## Advancing climate science with Knowledge-Discovery through Data mining
+---
+layout: post
+title: Advancing climate science with Knowledge-Discovery through Data mining
+---
 
-Paper stating to use KDD for a deeper undertstanding of climate change. 
+The paper states to use KDD for a deeper undertstanding of climate change. 
 Just skimmed over the paper, it appears as if they use spatio-temporal data (i.e., measurements of sea temperatures a geo-positions over time) and apply clustering.
 The results seems to be conitnuous regions of similar behaviour.
 As pre-processing they transfor the geo-positions to nodes in a graph.
