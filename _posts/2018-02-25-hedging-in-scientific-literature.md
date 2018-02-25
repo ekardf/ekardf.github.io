@@ -3,8 +3,6 @@ layout: post
 title: Hedging in Scientific Literature
 ---
 
-## Introduction
-
 Scientist like to weaken assessments and avoid clear statements, usually called hedging.
 
 ## CoNLL
