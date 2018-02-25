@@ -9,6 +9,8 @@ The results seems to be conitnuous regions of similar behaviour.
 As pre-processing they transfor the geo-positions to nodes in a graph.
 
 The software, delta-MAPS, is available at github, but only as a ZIP file.
+Had a quick look at the description of the algorithm, a lot of parameter and assumption.
+Seems to be based on k nearest neighbours.
 
 [Link to paper][1], [Link to software][2]
 
