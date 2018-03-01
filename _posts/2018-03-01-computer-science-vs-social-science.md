@@ -3,7 +3,7 @@ layout: post
 title: Computational Social Science
 ---
 
-Just read an article in the ACM Transactions on 
+Just read an article in the ACM Transactions on the difference between computer sience and social science and its implications on computational social sciences.
 
 ## Machine Learning
 
