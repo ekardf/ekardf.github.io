@@ -3,7 +3,7 @@ layout: post
 title: Hedging in Scientific Literature
 ---
 
-Scientist like to weaken assessments and avoid clear statements, usually called hedging.
+Scientist like to weaken assessments and avoid clear statements (tentativeness, possibility), usually called hedging.
 Hedges are an important part of scientific communication, also as means to cater for the reader and leave room for interpretation in the reader's hands.
 
 It is assumed that hedging words occur about as frequently as every 50th word.
