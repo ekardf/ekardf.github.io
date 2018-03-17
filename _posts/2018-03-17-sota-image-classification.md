@@ -1,4 +1,5 @@
 
+## Algorithms
 
 * ALI 
   - [https://ishmaelbelghazi.github.io/ALI/]
