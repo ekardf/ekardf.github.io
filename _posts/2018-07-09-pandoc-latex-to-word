@@ -1,0 +1,3 @@
+
+
+pandoc main.tex --bibliography=references.bib --csl=oscola_rkern.csl -o sota.docx
