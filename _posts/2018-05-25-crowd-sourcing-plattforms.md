@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hedging in Scientific Literature
+title: Plaforms for Crowd Sourcing
 ---
 
 https://www.upwork.com/
