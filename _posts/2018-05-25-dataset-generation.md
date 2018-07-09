@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hedging in Scientific Literature
+title: Generating Data for Data Science
 ---
 
 http://www.generatedata.com/
